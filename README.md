@@ -56,7 +56,12 @@ what(false); // 'boolean'
 
 # 3. Test
 
+> git clone git@github.com:hustcc/what.js.git
+
+> cd what.js
+
 > npm install
+
 > npm test
 
 
