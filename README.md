@@ -54,6 +54,12 @@ what(false); // 'boolean'
 ```
 
 
-# 3. LICENSE
+# 3. Test
+
+> npm install
+> npm test
+
+
+# 4. LICENSE
 
 MIT
